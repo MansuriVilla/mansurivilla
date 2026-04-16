@@ -12,6 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MansuriVilla&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MansuriVilla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/689b239d614598977eeb5274?variant=dark&roadmaps=)](https://roadmap.sh)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
